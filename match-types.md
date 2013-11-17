@@ -7,7 +7,8 @@ permalink: /match-types/
 Learn about the different kinds of matches to play in Kirupa Tennis.
 
 
-h2. Bug Squash
+Bug Squash
+----------
 
 The first commit adds code but also includes one (or more?) bugs in that code.  The next player to commit must fix at least one existing but, then add new code which contains one (or more?) bugs that can be fixed by the next player.
 
