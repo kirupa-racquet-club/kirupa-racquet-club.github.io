@@ -7,6 +7,15 @@ permalink: /match-types/
 Learn about the different kinds of matches to play in Kirupa Tennis.
 
 
+Free Play
+---------
+
+An Open-ended, no-rules match that generally isn't a match so much as it is a platform for experimentation and fun.
+
+### Free Play Matches
+* https://github.com/kirupa-racquet-club/kirupa-playground-free-play
+
+
 Bug Squash
 ----------
 
